@@ -65,7 +65,7 @@ p.lead{
 }
 
 .social-icons a:hover{
-    background-color:#ad5389
+    background-color:#8E2DE2
 }
 
 .dev-icons{
@@ -73,7 +73,7 @@ p.lead{
 }
 
 .dev-icons .list-inline-item i:hover{
-    color:#ad5389
+    color:#8E2DE2
 }
 
 #sideNav .navbar-nav .nav-item .nav-link{
@@ -84,7 +84,7 @@ p.lead{
 }
 
 #sideNav .navbar-toggler:focus{
-    outline-color:#d48a6e
+    outline-color:#3c1053
 }
 
 @media (min-width:992px){
@@ -164,22 +164,22 @@ section.resume-section{
 }
 
 .bg-primary{
-    background-color:#bd5d38!important;
-    background: #ad5389;  /* fallback for old browsers */
+    background-color:#8E2DE2!important;
+    background: #8E2DE2;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #3c1053, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #3c1053, #ad5389); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #3c1053, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .text-primary{
-    color:#ad5389!important
+    color:#8E2DE2!important
 }
 
 a{
-    color:#ad5389
+    color:#8E2DE2
 }
 
 a:active, a:focus, a:hover{
-    color:#824027
+    color:#3c1053
 }
 
 
